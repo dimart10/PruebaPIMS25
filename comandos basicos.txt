@@ -5,3 +5,12 @@ git status <- Estado del repo
 git add <file> <- Añade el archivo
 				  al commit
 				  
+git add . <- Añade todos los cambios
+
+git commit <- Crea un commit (versión)
+		con los cambios añadidos
+
+git log <- Muestra historial de commits
+
+
+Lineas de prueba
