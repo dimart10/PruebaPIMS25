@@ -1,0 +1,7 @@
+git init <- Crea un repositorio
+
+git status <- Estado del repo
+
+git add <file> <- Añade el archivo
+				  al commit
+				  
